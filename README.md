@@ -4,4 +4,4 @@ Project Akhir
 <div> NIM :  231031078</div>
 <div> Prodi: Sistem Infromasi C </div>
 
-* Tugas Project Kalkalulator
+* Tugas Project Kalkalulator `Kalakulator Sederhana.py`
